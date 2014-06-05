@@ -1,6 +1,6 @@
 /*
- * grunt-gzip
- * https://github.com/firehist/grunt-gzip
+ * grunt-zlib
+ * https://github.com/firehist/grunt-zlib
  *
  * Copyright (c) 2014 Benjamin Longearet
  * Licensed under the MIT license.

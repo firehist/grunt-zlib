@@ -1,5 +1,5 @@
 /*
- * grunt-gzip
+ * grunt-zlib
  * https://github.com/firehist/grunt-gzip
  *
  * Copyright (c) 2014 Benjamin Longearet
