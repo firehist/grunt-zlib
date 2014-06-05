@@ -1,0 +1,50 @@
+{
+  "name": "grunt-zlib",
+  "description": "Grunt task to manage zlib",
+  "version": "0.0.1",
+  "homepage": "https://github.com/firehist/grunt-zlib",
+  "author": {
+    "name": "Benjamin Longearet",
+    "email": "firehist@gmail.com",
+    "url": "http://firehist.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/firehist/grunt-zlib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/firehist/grunt-zlib/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/firehist/grunt-zlib/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "zlib",
+    "gunzip",
+    "gzip",
+    "unzip",
+    "deflate",
+    "deflateRaw",
+    "inflate",
+    "inflateRaw"
+  ]
+}
